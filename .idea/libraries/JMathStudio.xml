@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="JMathStudio">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../Jars/JMathStudio.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/JMathStudio.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
